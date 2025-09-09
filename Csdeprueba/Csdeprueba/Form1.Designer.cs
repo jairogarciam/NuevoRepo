@@ -37,9 +37,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(222, 84);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(288, 31);
+            this.label1.Size = new System.Drawing.Size(431, 31);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Archivo cs de prueba";
+            this.label1.Text = "Archivo cs de prueba rama main";
             // 
             // Form1
             // 
